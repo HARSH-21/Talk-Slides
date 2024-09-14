@@ -1,2 +1,2 @@
 # Talk-Slides
-Presentation Slides Of my  different Session and Expert Talks presented at security conferences or Training
+Presentation slides of my  different Session and Expert Talks presented at security conferences or Training

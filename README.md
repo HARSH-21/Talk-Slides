@@ -1,2 +1,3 @@
 # Talk-Slides
-Presentation slides of my  different Session and Expert Talks presented at security conferences or Training
+ Slides of my different Sessions,Seminar,Expert Talks,Workshop and Masterclass presented in multple security events.
+ This inludes Cybersecurity,Blockchain and AI Security topics in different events.
